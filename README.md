@@ -19,13 +19,14 @@ Introdução a jogos eletrônicos, histórico, evolução, sistemática, tipos d
 ## Envolvidos
 
 ### Alunos
-* Gustavo Ferreira Ceccon
-* Leonardo Tórtoro Pereira
-* Ítalo Tobler Silva
-* William Quelho Ferreira
+* Gabriel Simmel Nascimento
 * Gil Barbosa Reis
+* Gustavo Ferreira Ceccon
+* Ítalo Tobler Silva
+* Leonardo Tórtoro Pereira
 * Rafael Miranda Lopes
 * Rafael Pedrosa Silva Clerici
+* William Quelho Ferreira
 
 ### Professores
 * Claudio Fabiano Motta Toledo
